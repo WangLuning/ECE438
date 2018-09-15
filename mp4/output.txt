@@ -1,0 +1,5 @@
+channel utilization 0.8676
+channel idle fraction 0.09678
+total collision 1781
+variance of success transmission 195.942
+variance of collision 160.682
